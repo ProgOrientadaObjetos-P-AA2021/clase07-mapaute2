@@ -1,0 +1,3 @@
+Isidro Ayora;2;2,00
+Clinica Mogrovejo;5;5,00
+San Agustin;10;10,00
