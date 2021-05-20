@@ -68,7 +68,7 @@ public class ArchivoLectura {
                         Arrays.asList( linea.split(";") )
                 );
                 String nom = linea_partes.get(0);
-                int ca = Int.parseInt(linea_Partes.get(1));
+                int ca = Integer.parseInt(linea_partes.get(1));
                 double pre = Double.parseDouble(linea_partes.get(2));
                     
                 Hospital cal = new Hospital(nom, ca,pre);
